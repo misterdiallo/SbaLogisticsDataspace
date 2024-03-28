@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.0">
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/catalog/CatalogClientTest.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/identityhub/IdentityHubIntegrationTest.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/utils/TestUtils.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/utils/TransferSimulationUtils.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/utils/TransferRequestFactory.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/utils/GatlingUtils.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/utils/TransferInitiationData.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/local/TransferLocalSimulation.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/local/BlobTransferLocalSimulation.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/local/CloudBlobTransferIntegrationTest.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/local/AbstractBlobTransferTest.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/local/BlobTransferIntegrationTest.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/system-tests/src/test/java/org/eclipse/edc/system/tests/local/BlobTransferRequestFactory.java">
+</file>
+</checkstyle>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.0">
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/extensions/policies/src/main/java/org/eclipse/edc/mvd/SeedPoliciesExtension.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/extensions/policies/src/main/java/org/eclipse/edc/mvd/RegionConstraintFunction.java">
+</file>
+</checkstyle>

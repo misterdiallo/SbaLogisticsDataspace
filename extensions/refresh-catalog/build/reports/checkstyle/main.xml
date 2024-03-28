@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.0">
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/extensions/refresh-catalog/src/main/java/org/eclipse/edc/mvd/RegistrationServiceNodeDirectory.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/extensions/refresh-catalog/src/main/java/org/eclipse/edc/mvd/FederatedCacheNodeResolver.java">
+</file>
+<file name="/Users/alphasuze/Desktop/Dataspace/MinimumViableDataspace/extensions/refresh-catalog/src/main/java/org/eclipse/edc/mvd/RegistrationServiceNodeDirectoryExtension.java">
+</file>
+</checkstyle>
